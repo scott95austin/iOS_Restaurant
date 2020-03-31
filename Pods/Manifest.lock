@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.0.5)
+  - AlamofireImage (4.0.3):
+    - Alamofire (< 6.0.0, >= 5.0.2)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Moya
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Moya
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  AlamofireImage: 3d1a2010519e58675318735580eb856e88840ff7
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+
+PODFILE CHECKSUM: 39921d6779841b8ec692d28cf8ad772d59f409f4
+
+COCOAPODS: 1.8.4
